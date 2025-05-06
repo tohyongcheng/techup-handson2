@@ -1,0 +1,22 @@
+/* h1 {
+    color: red;
+    background-color: yellow;
+    text-align: right;
+    border: 4px green dotted;
+    margin
+    padding-top: 20px;
+padding-bottom: 20px;
+
+} */
+
+h1 {
+    color: red;
+}
+
+.title {
+    background-color: gray;
+}
+
+#important {
+    color: yellow;
+}
